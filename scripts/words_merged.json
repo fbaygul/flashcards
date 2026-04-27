@@ -1,0 +1,4074 @@
+[
+  {
+    "id": 1,
+    "word_en": "Absorb",
+    "word_tr": "Emmek/Soğurmak",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Plants absorb nutrients from the soil."
+  },
+  {
+    "id": 2,
+    "word_en": "Accelerate",
+    "word_tr": "Hızlandırmak",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "Catalysts accelerate the chemical reaction."
+  },
+  {
+    "id": 3,
+    "word_en": "Accumulate",
+    "word_tr": "Biriktirmek/Toplamak",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Toxins accumulate in the food chain over time."
+  },
+  {
+    "id": 4,
+    "word_en": "Adapt",
+    "word_tr": "Uyum sağlamak",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Species adapt to their environment through natural selection."
+  },
+  {
+    "id": 5,
+    "word_en": "Adequate",
+    "word_tr": "Yeterli",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "An adequate supply of oxygen is essential for survival."
+  },
+  {
+    "id": 6,
+    "word_en": "Affect",
+    "word_tr": "Etkilemek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Climate change affects biodiversity worldwide."
+  },
+  {
+    "id": 7,
+    "word_en": "Aggregate",
+    "word_tr": "Toplamak/Kümelemek",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Data was aggregated from multiple research centers."
+  },
+  {
+    "id": 8,
+    "word_en": "Allocate",
+    "word_tr": "Tahsis etmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Resources were allocated for the new experiment."
+  },
+  {
+    "id": 9,
+    "word_en": "Alter",
+    "word_tr": "Değiştirmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Genetic engineering can alter the DNA of organisms."
+  },
+  {
+    "id": 10,
+    "word_en": "Amplify",
+    "word_tr": "Yükseltmek/Güçlendirmek",
+    "category": "Fizik",
+    "difficulty": 2,
+    "example_sentence": "The device amplifies weak electrical signals."
+  },
+  {
+    "id": 11,
+    "word_en": "Analyze",
+    "word_tr": "Analiz etmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Scientists analyze data to draw conclusions."
+  },
+  {
+    "id": 12,
+    "word_en": "Anticipate",
+    "word_tr": "Öngörmek/Tahmin etmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Researchers anticipate a rise in global temperatures."
+  },
+  {
+    "id": 13,
+    "word_en": "Apparent",
+    "word_tr": "Açık/Belirgin",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The effects of pollution are apparent in coastal areas."
+  },
+  {
+    "id": 14,
+    "word_en": "Approach",
+    "word_tr": "Yaklaşım/Yaklaşmak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "A new approach to cancer treatment has been developed."
+  },
+  {
+    "id": 15,
+    "word_en": "Approximate",
+    "word_tr": "Yaklaşık",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The approximate age of the fossil is 3 million years."
+  },
+  {
+    "id": 16,
+    "word_en": "Assess",
+    "word_tr": "Değerlendirmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The study assessed the impact of deforestation."
+  },
+  {
+    "id": 17,
+    "word_en": "Attribute",
+    "word_tr": "Atfetmek/Nitelik",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The decline is attributed to habitat loss."
+  },
+  {
+    "id": 18,
+    "word_en": "Beneficial",
+    "word_tr": "Faydalı/Yararlı",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Exercise is beneficial for cardiovascular health."
+  },
+  {
+    "id": 19,
+    "word_en": "Bond",
+    "word_tr": "Bağ",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "A covalent bond involves sharing of electrons."
+  },
+  {
+    "id": 20,
+    "word_en": "Capacity",
+    "word_tr": "Kapasite/Yeterlilik",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The battery has a limited storage capacity."
+  },
+  {
+    "id": 21,
+    "word_en": "Catalyst",
+    "word_tr": "Katalizör",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "Enzymes act as biological catalysts."
+  },
+  {
+    "id": 22,
+    "word_en": "Chronic",
+    "word_tr": "Kronik/Süreğen",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "Chronic exposure to radiation increases cancer risk."
+  },
+  {
+    "id": 23,
+    "word_en": "Circulate",
+    "word_tr": "Dolaşmak/Dolaştırmak",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Blood circulates through the body via arteries."
+  },
+  {
+    "id": 24,
+    "word_en": "Classify",
+    "word_tr": "Sınıflandırmak",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Scientists classify organisms based on shared traits."
+  },
+  {
+    "id": 25,
+    "word_en": "Coherent",
+    "word_tr": "Tutarlı/Bağdaşık",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The theory provides a coherent explanation."
+  },
+  {
+    "id": 26,
+    "word_en": "Coincide",
+    "word_tr": "Aynı zamana denk gelmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The outbreak coincided with seasonal changes."
+  },
+  {
+    "id": 27,
+    "word_en": "Collaborate",
+    "word_tr": "İşbirliği yapmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Researchers collaborate across disciplines."
+  },
+  {
+    "id": 28,
+    "word_en": "Commence",
+    "word_tr": "Başlamak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The experiment commenced at dawn."
+  },
+  {
+    "id": 29,
+    "word_en": "Compact",
+    "word_tr": "Sıkışık/Yoğun",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "The material has a compact molecular structure."
+  },
+  {
+    "id": 30,
+    "word_en": "Comparable",
+    "word_tr": "Karşılaştırılabilir",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The results are comparable to previous studies."
+  },
+  {
+    "id": 31,
+    "word_en": "Compatible",
+    "word_tr": "Uyumlu",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "The two systems are not compatible with each other."
+  },
+  {
+    "id": 32,
+    "word_en": "Compensate",
+    "word_tr": "Telafi etmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The body compensates for blood loss."
+  },
+  {
+    "id": 33,
+    "word_en": "Complex",
+    "word_tr": "Karmaşık",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Protein folding is a complex process."
+  },
+  {
+    "id": 34,
+    "word_en": "Component",
+    "word_tr": "Bileşen",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Water is a key component of all living cells."
+  },
+  {
+    "id": 35,
+    "word_en": "Compound",
+    "word_tr": "Bileşik",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Water is a compound made of hydrogen and oxygen."
+  },
+  {
+    "id": 36,
+    "word_en": "Comprehensive",
+    "word_tr": "Kapsamlı",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "A comprehensive review of the literature was conducted."
+  },
+  {
+    "id": 37,
+    "word_en": "Comprise",
+    "word_tr": "Kapsamak/İçermek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The ecosystem comprises numerous species."
+  },
+  {
+    "id": 38,
+    "word_en": "Conceive",
+    "word_tr": "Tasarlamak/Kavramak",
+    "category": "Genel",
+    "difficulty": 3,
+    "example_sentence": "The concept was first conceived in the 1950s."
+  },
+  {
+    "id": 39,
+    "word_en": "Concentrate",
+    "word_tr": "Yoğunlaştırmak",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "The solution was concentrated by evaporation."
+  },
+  {
+    "id": 40,
+    "word_en": "Conclude",
+    "word_tr": "Sonuç çıkarmak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The researchers concluded that the hypothesis was valid."
+  },
+  {
+    "id": 41,
+    "word_en": "Conduct",
+    "word_tr": "Yürütmek/İletmek",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Metals conduct heat and electricity efficiently."
+  },
+  {
+    "id": 42,
+    "word_en": "Confine",
+    "word_tr": "Sınırlandırmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The infection was confined to a small area."
+  },
+  {
+    "id": 43,
+    "word_en": "Confirm",
+    "word_tr": "Doğrulamak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The experiments confirmed the earlier findings."
+  },
+  {
+    "id": 44,
+    "word_en": "Consecutive",
+    "word_tr": "Ardışık/Art arda",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Temperatures rose for five consecutive years."
+  },
+  {
+    "id": 45,
+    "word_en": "Consequence",
+    "word_tr": "Sonuç",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Deforestation has severe environmental consequences."
+  },
+  {
+    "id": 46,
+    "word_en": "Conserve",
+    "word_tr": "Korumak/Muhafaza etmek",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Efforts to conserve endangered species are increasing."
+  },
+  {
+    "id": 47,
+    "word_en": "Considerable",
+    "word_tr": "Önemli/Hatırı sayılır",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "A considerable amount of energy was released."
+  },
+  {
+    "id": 48,
+    "word_en": "Consistent",
+    "word_tr": "Tutarlı",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The data is consistent with the model predictions."
+  },
+  {
+    "id": 49,
+    "word_en": "Constitute",
+    "word_tr": "Oluşturmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Oxygen constitutes about 21 percent of the atmosphere."
+  },
+  {
+    "id": 50,
+    "word_en": "Constraint",
+    "word_tr": "Kısıtlama/Sınırlama",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Budget constraints limited the scope of the study."
+  },
+  {
+    "id": 51,
+    "word_en": "Consume",
+    "word_tr": "Tüketmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Humans consume vast amounts of natural resources."
+  },
+  {
+    "id": 52,
+    "word_en": "Contaminate",
+    "word_tr": "Kirletmek/Bulaştırmak",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "Industrial waste can contaminate groundwater."
+  },
+  {
+    "id": 53,
+    "word_en": "Contribute",
+    "word_tr": "Katkıda bulunmak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Greenhouse gases contribute to global warming."
+  },
+  {
+    "id": 54,
+    "word_en": "Convert",
+    "word_tr": "Dönüştürmek",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Solar panels convert sunlight into electricity."
+  },
+  {
+    "id": 55,
+    "word_en": "Corrode",
+    "word_tr": "Aşındırmak",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "Acid rain corrodes metal structures over time."
+  },
+  {
+    "id": 56,
+    "word_en": "Correspond",
+    "word_tr": "Denk gelmek/Karşılık gelmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The results correspond to theoretical predictions."
+  },
+  {
+    "id": 57,
+    "word_en": "Crucial",
+    "word_tr": "Çok önemli/Kritik",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Water is crucial for all forms of life."
+  },
+  {
+    "id": 58,
+    "word_en": "Decline",
+    "word_tr": "Azalmak/Düşüş",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The population of polar bears has declined sharply."
+  },
+  {
+    "id": 59,
+    "word_en": "Deficient",
+    "word_tr": "Eksik/Yetersiz",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "A diet deficient in vitamin C causes scurvy."
+  },
+  {
+    "id": 60,
+    "word_en": "Degrade",
+    "word_tr": "Bozulmak/Ayrışmak",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "Plastics take centuries to degrade in nature."
+  },
+  {
+    "id": 61,
+    "word_en": "Demonstrate",
+    "word_tr": "Göstermek/Kanıtlamak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The experiment demonstrated the effect of gravity."
+  },
+  {
+    "id": 62,
+    "word_en": "Denote",
+    "word_tr": "Belirtmek/İfade etmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The symbol H denotes hydrogen."
+  },
+  {
+    "id": 63,
+    "word_en": "Deplete",
+    "word_tr": "Tüketmek/Azaltmak",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Overfishing depletes marine resources rapidly."
+  },
+  {
+    "id": 64,
+    "word_en": "Derive",
+    "word_tr": "Türetmek/Elde etmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Many medicines are derived from natural plants."
+  },
+  {
+    "id": 65,
+    "word_en": "Detect",
+    "word_tr": "Tespit etmek/Saptamak",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The sensor can detect tiny changes in temperature."
+  },
+  {
+    "id": 66,
+    "word_en": "Deteriorate",
+    "word_tr": "Kötüleşmek/Bozulmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Air quality continues to deteriorate in urban areas."
+  },
+  {
+    "id": 67,
+    "word_en": "Determine",
+    "word_tr": "Belirlemek/Saptamak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Scientists determined the exact cause of the disease."
+  },
+  {
+    "id": 68,
+    "word_en": "Device",
+    "word_tr": "Cihaz/Aygıt",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "A new device for measuring blood pressure was invented."
+  },
+  {
+    "id": 69,
+    "word_en": "Diminish",
+    "word_tr": "Azaltmak/Küçültmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The ozone layer has diminished significantly."
+  },
+  {
+    "id": 70,
+    "word_en": "Discharge",
+    "word_tr": "Boşaltmak/Deşarj",
+    "category": "Fizik",
+    "difficulty": 2,
+    "example_sentence": "The factory discharged pollutants into the river."
+  },
+  {
+    "id": 71,
+    "word_en": "Discrete",
+    "word_tr": "Ayrık/Kesikli",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Matter exists in discrete units called atoms."
+  },
+  {
+    "id": 72,
+    "word_en": "Dispose",
+    "word_tr": "Elden çıkarmak/Bertaraf etmek",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Hazardous waste must be disposed of properly."
+  },
+  {
+    "id": 73,
+    "word_en": "Dissolve",
+    "word_tr": "Çözmek/Eritmek",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Salt dissolves easily in water."
+  },
+  {
+    "id": 74,
+    "word_en": "Distinct",
+    "word_tr": "Belirgin/Farklı",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The two species are genetically distinct."
+  },
+  {
+    "id": 75,
+    "word_en": "Distort",
+    "word_tr": "Çarpıtmak/Bozmak",
+    "category": "Fizik",
+    "difficulty": 2,
+    "example_sentence": "Heat can distort the shape of metal objects."
+  },
+  {
+    "id": 76,
+    "word_en": "Distribute",
+    "word_tr": "Dağıtmak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Nutrients are distributed throughout the body."
+  },
+  {
+    "id": 77,
+    "word_en": "Diverse",
+    "word_tr": "Çeşitli/Farklı",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Tropical forests contain diverse species."
+  },
+  {
+    "id": 78,
+    "word_en": "Dominate",
+    "word_tr": "Hâkim olmak/Egemen olmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "One species can dominate an entire ecosystem."
+  },
+  {
+    "id": 79,
+    "word_en": "Drastic",
+    "word_tr": "Köklü/Şiddetli",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Drastic measures are needed to reduce emissions."
+  },
+  {
+    "id": 80,
+    "word_en": "Duration",
+    "word_tr": "Süre",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The duration of the experiment was three weeks."
+  },
+  {
+    "id": 81,
+    "word_en": "Dwell",
+    "word_tr": "İkamet etmek/Yaşamak",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "Many organisms dwell in the deep ocean."
+  },
+  {
+    "id": 82,
+    "word_en": "Elaborate",
+    "word_tr": "Ayrıntılı/Detaylandırmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The researcher elaborated on the methodology."
+  },
+  {
+    "id": 83,
+    "word_en": "Element",
+    "word_tr": "Element/Öğe",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Carbon is an essential element for life."
+  },
+  {
+    "id": 84,
+    "word_en": "Elevate",
+    "word_tr": "Yükseltmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Elevated temperatures accelerate chemical reactions."
+  },
+  {
+    "id": 85,
+    "word_en": "Eliminate",
+    "word_tr": "Ortadan kaldırmak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The treatment eliminates harmful bacteria."
+  },
+  {
+    "id": 86,
+    "word_en": "Emerge",
+    "word_tr": "Ortaya çıkmak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "New species emerge through evolutionary processes."
+  },
+  {
+    "id": 87,
+    "word_en": "Emit",
+    "word_tr": "Yaymak/Salmak",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "The sun emits light and heat energy."
+  },
+  {
+    "id": 88,
+    "word_en": "Emphasize",
+    "word_tr": "Vurgulamak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The report emphasizes the need for clean energy."
+  },
+  {
+    "id": 89,
+    "word_en": "Enable",
+    "word_tr": "Olanak sağlamak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Technology enables faster data processing."
+  },
+  {
+    "id": 90,
+    "word_en": "Encounter",
+    "word_tr": "Karşılaşmak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Researchers encountered unexpected results."
+  },
+  {
+    "id": 91,
+    "word_en": "Endure",
+    "word_tr": "Dayanmak/Katlanmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Some bacteria can endure extreme temperatures."
+  },
+  {
+    "id": 92,
+    "word_en": "Enhance",
+    "word_tr": "Geliştirmek/Artırmak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The new formula enhances fuel efficiency."
+  },
+  {
+    "id": 93,
+    "word_en": "Enormous",
+    "word_tr": "Çok büyük/Devasa",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The universe contains an enormous number of galaxies."
+  },
+  {
+    "id": 94,
+    "word_en": "Ensure",
+    "word_tr": "Sağlamak/Garanti etmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Safety protocols ensure the well-being of participants."
+  },
+  {
+    "id": 95,
+    "word_en": "Entropy",
+    "word_tr": "Entropi/Düzensizlik",
+    "category": "Fizik",
+    "difficulty": 3,
+    "example_sentence": "Entropy in a closed system always increases."
+  },
+  {
+    "id": 96,
+    "word_en": "Enzyme",
+    "word_tr": "Enzim",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Enzymes catalyze biochemical reactions in cells."
+  },
+  {
+    "id": 97,
+    "word_en": "Equilibrium",
+    "word_tr": "Denge",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "Chemical equilibrium occurs when reaction rates are equal."
+  },
+  {
+    "id": 98,
+    "word_en": "Equivalent",
+    "word_tr": "Eşdeğer",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "One kilogram is equivalent to 2.2 pounds."
+  },
+  {
+    "id": 99,
+    "word_en": "Erode",
+    "word_tr": "Aşındırmak",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Wind and water erode rock formations over time."
+  },
+  {
+    "id": 100,
+    "word_en": "Essential",
+    "word_tr": "Temel/Gerekli",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Vitamins are essential for healthy growth."
+  },
+  {
+    "id": 101,
+    "word_en": "Establish",
+    "word_tr": "Kurmak/Ortaya koymak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The link between smoking and cancer is well established."
+  },
+  {
+    "id": 102,
+    "word_en": "Estimate",
+    "word_tr": "Tahmin etmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Scientists estimate the age of the Earth at 4.5 billion years."
+  },
+  {
+    "id": 103,
+    "word_en": "Evaluate",
+    "word_tr": "Değerlendirmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The committee evaluated the research proposal."
+  },
+  {
+    "id": 104,
+    "word_en": "Evaporate",
+    "word_tr": "Buharlaşmak",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Water evaporates faster at higher temperatures."
+  },
+  {
+    "id": 105,
+    "word_en": "Evident",
+    "word_tr": "Açık/Belli",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The impact of climate change is now evident."
+  },
+  {
+    "id": 106,
+    "word_en": "Evolve",
+    "word_tr": "Evrimleşmek/Gelişmek",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Species evolve over millions of years."
+  },
+  {
+    "id": 107,
+    "word_en": "Exceed",
+    "word_tr": "Aşmak/Geçmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The temperature exceeded 40 degrees Celsius."
+  },
+  {
+    "id": 108,
+    "word_en": "Exclude",
+    "word_tr": "Hariç tutmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The study excluded participants under 18."
+  },
+  {
+    "id": 109,
+    "word_en": "Exhibit",
+    "word_tr": "Sergilemek/Göstermek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The patient exhibited symptoms of infection."
+  },
+  {
+    "id": 110,
+    "word_en": "Expand",
+    "word_tr": "Genişlemek/Büyümek",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "Metals expand when heated."
+  },
+  {
+    "id": 111,
+    "word_en": "Explicit",
+    "word_tr": "Açık/Net",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The instructions were explicit and clear."
+  },
+  {
+    "id": 112,
+    "word_en": "Exploit",
+    "word_tr": "İstismar etmek/Yararlanmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Industries exploit natural resources unsustainably."
+  },
+  {
+    "id": 113,
+    "word_en": "Expose",
+    "word_tr": "Maruz bırakmak",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Prolonged exposure to UV rays damages skin cells."
+  },
+  {
+    "id": 114,
+    "word_en": "Extract",
+    "word_tr": "Çıkarmak/Özütlemek",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "DNA is extracted from blood samples for analysis."
+  },
+  {
+    "id": 115,
+    "word_en": "Feasible",
+    "word_tr": "Uygulanabilir/Mümkün",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Solar energy is a feasible alternative to fossil fuels."
+  },
+  {
+    "id": 116,
+    "word_en": "Fluctuate",
+    "word_tr": "Dalgalanmak",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Temperatures fluctuate throughout the day."
+  },
+  {
+    "id": 117,
+    "word_en": "Forecast",
+    "word_tr": "Tahmin etmek/Öngörmek",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Models forecast rising sea levels by 2050."
+  },
+  {
+    "id": 118,
+    "word_en": "Formulate",
+    "word_tr": "Formüle etmek",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "The team formulated a new hypothesis."
+  },
+  {
+    "id": 119,
+    "word_en": "Fragment",
+    "word_tr": "Parça/Parçalamak",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The rock fragmented under high pressure."
+  },
+  {
+    "id": 120,
+    "word_en": "Friction",
+    "word_tr": "Sürtünme",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "Friction generates heat between surfaces."
+  },
+  {
+    "id": 121,
+    "word_en": "Function",
+    "word_tr": "İşlev/Çalışmak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The liver functions as a detoxification organ."
+  },
+  {
+    "id": 122,
+    "word_en": "Fundamental",
+    "word_tr": "Temel",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "DNA is fundamental to all living organisms."
+  },
+  {
+    "id": 123,
+    "word_en": "Generate",
+    "word_tr": "Üretmek/Oluşturmak",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Wind turbines generate renewable energy."
+  },
+  {
+    "id": 124,
+    "word_en": "Genetic",
+    "word_tr": "Genetik",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Genetic factors influence disease susceptibility."
+  },
+  {
+    "id": 125,
+    "word_en": "Glacier",
+    "word_tr": "Buzul",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Glaciers are melting at an alarming rate."
+  },
+  {
+    "id": 126,
+    "word_en": "Gradual",
+    "word_tr": "Aşamalı/Kademeli",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Evolution is a gradual process."
+  },
+  {
+    "id": 127,
+    "word_en": "Habitat",
+    "word_tr": "Yaşam alanı",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Deforestation destroys natural habitats."
+  },
+  {
+    "id": 128,
+    "word_en": "Hazardous",
+    "word_tr": "Tehlikeli/Zararlı",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Hazardous chemicals must be handled with care."
+  },
+  {
+    "id": 129,
+    "word_en": "Hence",
+    "word_tr": "Bu nedenle",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The sample was contaminated, hence the results were invalid."
+  },
+  {
+    "id": 130,
+    "word_en": "Hinder",
+    "word_tr": "Engellemek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Lack of funding hinders scientific progress."
+  },
+  {
+    "id": 131,
+    "word_en": "Hypothesis",
+    "word_tr": "Hipotez/Varsayım",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The hypothesis was tested through experiments."
+  },
+  {
+    "id": 132,
+    "word_en": "Identical",
+    "word_tr": "Aynı/Özdeş",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The two DNA sequences are virtually identical."
+  },
+  {
+    "id": 133,
+    "word_en": "Identify",
+    "word_tr": "Tanımlamak/Belirlemek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Researchers identified a new species of frog."
+  },
+  {
+    "id": 134,
+    "word_en": "Immune",
+    "word_tr": "Bağışık",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "The immune system protects the body from pathogens."
+  },
+  {
+    "id": 135,
+    "word_en": "Impact",
+    "word_tr": "Etki/Darbe",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Human activity has a significant impact on the environment."
+  },
+  {
+    "id": 136,
+    "word_en": "Implement",
+    "word_tr": "Uygulamak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "New safety measures were implemented."
+  },
+  {
+    "id": 137,
+    "word_en": "Imply",
+    "word_tr": "İma etmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The data implies a correlation between variables."
+  },
+  {
+    "id": 138,
+    "word_en": "Impose",
+    "word_tr": "Dayatmak/Empoze etmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Regulations impose limits on carbon emissions."
+  },
+  {
+    "id": 139,
+    "word_en": "Inadequate",
+    "word_tr": "Yetersiz",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Inadequate nutrition leads to growth disorders."
+  },
+  {
+    "id": 140,
+    "word_en": "Incline",
+    "word_tr": "Eğilim/Eğim",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "The ball rolled down the incline."
+  },
+  {
+    "id": 141,
+    "word_en": "Incorporate",
+    "word_tr": "Dahil etmek/Bünyesine katmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The design incorporates new safety features."
+  },
+  {
+    "id": 142,
+    "word_en": "Indicate",
+    "word_tr": "Göstermek/Belirtmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Results indicate a positive trend."
+  },
+  {
+    "id": 143,
+    "word_en": "Induce",
+    "word_tr": "Neden olmak/Uyarmak",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Electric current can induce a magnetic field."
+  },
+  {
+    "id": 144,
+    "word_en": "Inevitable",
+    "word_tr": "Kaçınılmaz",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Climate change is an inevitable consequence of emissions."
+  },
+  {
+    "id": 145,
+    "word_en": "Infectious",
+    "word_tr": "Bulaşıcı",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Viruses cause infectious diseases."
+  },
+  {
+    "id": 146,
+    "word_en": "Infer",
+    "word_tr": "Çıkarım yapmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "We can infer the age of rocks from their layers."
+  },
+  {
+    "id": 147,
+    "word_en": "Infinite",
+    "word_tr": "Sonsuz",
+    "category": "Fizik",
+    "difficulty": 2,
+    "example_sentence": "The universe may be infinite in size."
+  },
+  {
+    "id": 148,
+    "word_en": "Influence",
+    "word_tr": "Etkilemek/Etki",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Gravity influences the motion of planets."
+  },
+  {
+    "id": 149,
+    "word_en": "Ingredient",
+    "word_tr": "İçerik/Bileşen",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "The key ingredient in the reaction is a catalyst."
+  },
+  {
+    "id": 150,
+    "word_en": "Inhabit",
+    "word_tr": "Yaşamak/İkamet etmek",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Many species inhabit tropical rainforests."
+  },
+  {
+    "id": 151,
+    "word_en": "Inherent",
+    "word_tr": "Doğasında olan/Yapısal",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Risk is inherent in all scientific experiments."
+  },
+  {
+    "id": 152,
+    "word_en": "Inhibit",
+    "word_tr": "Engellemek/Baskılamak",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "The drug inhibits tumor growth."
+  },
+  {
+    "id": 153,
+    "word_en": "Initial",
+    "word_tr": "Başlangıç/İlk",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The initial results were promising."
+  },
+  {
+    "id": 154,
+    "word_en": "Inject",
+    "word_tr": "Enjekte etmek",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "The vaccine was injected into the patient."
+  },
+  {
+    "id": 155,
+    "word_en": "Innovation",
+    "word_tr": "Yenilik/Buluş",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Technological innovation drives economic growth."
+  },
+  {
+    "id": 156,
+    "word_en": "Insight",
+    "word_tr": "İçgörü/Kavrayış",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The study provides valuable insights into behavior."
+  },
+  {
+    "id": 157,
+    "word_en": "Inspect",
+    "word_tr": "İncelemek/Denetlemek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The specimens were inspected under a microscope."
+  },
+  {
+    "id": 158,
+    "word_en": "Integrate",
+    "word_tr": "Bütünleştirmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The model integrates data from multiple sources."
+  },
+  {
+    "id": 159,
+    "word_en": "Intense",
+    "word_tr": "Yoğun/Şiddetli",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Intense heat can cause metal to melt."
+  },
+  {
+    "id": 160,
+    "word_en": "Interact",
+    "word_tr": "Etkileşmek",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Molecules interact through chemical bonds."
+  },
+  {
+    "id": 161,
+    "word_en": "Intermediate",
+    "word_tr": "Ara/Orta",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "An intermediate product forms during the reaction."
+  },
+  {
+    "id": 162,
+    "word_en": "Internal",
+    "word_tr": "İç/Dahili",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The internal organs were examined carefully."
+  },
+  {
+    "id": 163,
+    "word_en": "Interpret",
+    "word_tr": "Yorumlamak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Scientists interpret data to form conclusions."
+  },
+  {
+    "id": 164,
+    "word_en": "Intervene",
+    "word_tr": "Müdahale etmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Medical professionals intervened to save the patient."
+  },
+  {
+    "id": 165,
+    "word_en": "Investigate",
+    "word_tr": "Araştırmak",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The team investigated the cause of the outbreak."
+  },
+  {
+    "id": 166,
+    "word_en": "Isolate",
+    "word_tr": "Yalıtmak/Ayırmak",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The virus was isolated in the laboratory."
+  },
+  {
+    "id": 167,
+    "word_en": "Isotope",
+    "word_tr": "İzotop",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "Carbon-14 is a radioactive isotope."
+  },
+  {
+    "id": 168,
+    "word_en": "Justify",
+    "word_tr": "Haklı çıkarmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The results justify further investigation."
+  },
+  {
+    "id": 169,
+    "word_en": "Kinetic",
+    "word_tr": "Kinetik/Hareket",
+    "category": "Fizik",
+    "difficulty": 2,
+    "example_sentence": "Kinetic energy increases with velocity."
+  },
+  {
+    "id": 170,
+    "word_en": "Label",
+    "word_tr": "Etiketlemek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Each sample was carefully labeled."
+  },
+  {
+    "id": 171,
+    "word_en": "Layer",
+    "word_tr": "Katman/Tabaka",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The ozone layer protects Earth from UV radiation."
+  },
+  {
+    "id": 172,
+    "word_en": "Lethal",
+    "word_tr": "Öldürücü/Ölümcül",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "The venom of this snake is lethal."
+  },
+  {
+    "id": 173,
+    "word_en": "Likewise",
+    "word_tr": "Aynı şekilde/Benzer biçimde",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Temperature affects density; pressure likewise plays a role."
+  },
+  {
+    "id": 174,
+    "word_en": "Magnitude",
+    "word_tr": "Büyüklük/Ölçek",
+    "category": "Fizik",
+    "difficulty": 2,
+    "example_sentence": "The magnitude of the earthquake was 7.2."
+  },
+  {
+    "id": 175,
+    "word_en": "Maintain",
+    "word_tr": "Sürdürmek/Korumak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The body maintains a constant internal temperature."
+  },
+  {
+    "id": 176,
+    "word_en": "Mammal",
+    "word_tr": "Memeli",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Whales are marine mammals."
+  },
+  {
+    "id": 177,
+    "word_en": "Manifest",
+    "word_tr": "Göstermek/Ortaya çıkmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The disease manifests itself through skin lesions."
+  },
+  {
+    "id": 178,
+    "word_en": "Manipulate",
+    "word_tr": "Manipüle etmek/Yönlendirmek",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Scientists manipulate genes to study their function."
+  },
+  {
+    "id": 179,
+    "word_en": "Mature",
+    "word_tr": "Olgunlaşmak",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "The fruit matures over several weeks."
+  },
+  {
+    "id": 180,
+    "word_en": "Mechanism",
+    "word_tr": "Mekanizma",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The mechanism of enzyme action is well understood."
+  },
+  {
+    "id": 181,
+    "word_en": "Medium",
+    "word_tr": "Ortam/Araç",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Sound travels faster through a liquid medium."
+  },
+  {
+    "id": 182,
+    "word_en": "Membrane",
+    "word_tr": "Zar/Membran",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "The cell membrane controls what enters the cell."
+  },
+  {
+    "id": 183,
+    "word_en": "Metabolism",
+    "word_tr": "Metabolizma",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "Metabolism converts food into energy."
+  },
+  {
+    "id": 184,
+    "word_en": "Microscopic",
+    "word_tr": "Mikroskobik",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Bacteria are microscopic organisms."
+  },
+  {
+    "id": 185,
+    "word_en": "Migrate",
+    "word_tr": "Göç etmek",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Birds migrate south during winter."
+  },
+  {
+    "id": 186,
+    "word_en": "Mineral",
+    "word_tr": "Mineral/Maden",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Bones contain calcium and other minerals."
+  },
+  {
+    "id": 187,
+    "word_en": "Minimize",
+    "word_tr": "En aza indirmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Safety measures minimize the risk of accidents."
+  },
+  {
+    "id": 188,
+    "word_en": "Mitigate",
+    "word_tr": "Hafifletmek/Azaltmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Trees help mitigate the effects of climate change."
+  },
+  {
+    "id": 189,
+    "word_en": "Modify",
+    "word_tr": "Değiştirmek/Uyarlamak",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The design was modified to improve efficiency."
+  },
+  {
+    "id": 190,
+    "word_en": "Moisture",
+    "word_tr": "Nem",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Moisture in the air affects weather patterns."
+  },
+  {
+    "id": 191,
+    "word_en": "Molecular",
+    "word_tr": "Moleküler",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "The molecular structure determines chemical properties."
+  },
+  {
+    "id": 192,
+    "word_en": "Monitor",
+    "word_tr": "İzlemek/Gözlemlemek",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Sensors monitor air quality continuously."
+  },
+  {
+    "id": 193,
+    "word_en": "Morphology",
+    "word_tr": "Morfoloji/Biçimbilim",
+    "category": "Biyoloji",
+    "difficulty": 3,
+    "example_sentence": "The morphology of the cell was examined."
+  },
+  {
+    "id": 194,
+    "word_en": "Mutual",
+    "word_tr": "Karşılıklı",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The relationship is of mutual benefit."
+  },
+  {
+    "id": 195,
+    "word_en": "Navigate",
+    "word_tr": "Yol bulmak/Seyrüsefer",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Animals navigate using magnetic fields."
+  },
+  {
+    "id": 196,
+    "word_en": "Negligible",
+    "word_tr": "İhmal edilebilir",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "The error was negligible and could be ignored."
+  },
+  {
+    "id": 197,
+    "word_en": "Neutral",
+    "word_tr": "Nötr/Yansız",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Pure water has a neutral pH of 7."
+  },
+  {
+    "id": 198,
+    "word_en": "Nevertheless",
+    "word_tr": "Yine de/Buna rağmen",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The data was limited; nevertheless, the results were significant."
+  },
+  {
+    "id": 199,
+    "word_en": "Niche",
+    "word_tr": "Niş/Ekolojik alan",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "Each species fills a unique ecological niche."
+  },
+  {
+    "id": 200,
+    "word_en": "Norm",
+    "word_tr": "Norm/Standart",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Deviations from the norm require investigation."
+  },
+  {
+    "id": 201,
+    "word_en": "Notable",
+    "word_tr": "Dikkat çekici/Kayda değer",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "A notable increase in temperature was recorded."
+  },
+  {
+    "id": 202,
+    "word_en": "Notion",
+    "word_tr": "Kavram/Düşünce",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The notion that the Earth is flat has been disproved."
+  },
+  {
+    "id": 203,
+    "word_en": "Nucleus",
+    "word_tr": "Çekirdek",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "The nucleus contains DNA."
+  },
+  {
+    "id": 204,
+    "word_en": "Nutrient",
+    "word_tr": "Besin/Besin maddesi",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Plants absorb nutrients from the soil."
+  },
+  {
+    "id": 205,
+    "word_en": "Obtain",
+    "word_tr": "Elde etmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Results were obtained from controlled experiments."
+  },
+  {
+    "id": 206,
+    "word_en": "Obvious",
+    "word_tr": "Açık/Bariz",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The damage to the coral reef was obvious."
+  },
+  {
+    "id": 207,
+    "word_en": "Occupy",
+    "word_tr": "İşgal etmek/Kaplamak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Forests occupy large areas of the continent."
+  },
+  {
+    "id": 208,
+    "word_en": "Occur",
+    "word_tr": "Meydana gelmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Earthquakes occur along tectonic plate boundaries."
+  },
+  {
+    "id": 209,
+    "word_en": "Offspring",
+    "word_tr": "Yavru/Döl",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "The offspring inherit traits from both parents."
+  },
+  {
+    "id": 210,
+    "word_en": "Ongoing",
+    "word_tr": "Devam eden/Süregelen",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Ongoing research aims to find a cure."
+  },
+  {
+    "id": 211,
+    "word_en": "Optimal",
+    "word_tr": "En uygun/Optimum",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "The optimal temperature for growth is 37°C."
+  },
+  {
+    "id": 212,
+    "word_en": "Orbit",
+    "word_tr": "Yörünge/Yörüngede dönmek",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "The Earth orbits the Sun once a year."
+  },
+  {
+    "id": 213,
+    "word_en": "Organic",
+    "word_tr": "Organik",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Organic compounds contain carbon atoms."
+  },
+  {
+    "id": 214,
+    "word_en": "Organism",
+    "word_tr": "Organizma/Canlı",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Microorganisms are the smallest living organisms."
+  },
+  {
+    "id": 215,
+    "word_en": "Orient",
+    "word_tr": "Yönlendirmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The compass needle orients itself toward north."
+  },
+  {
+    "id": 216,
+    "word_en": "Oscillate",
+    "word_tr": "Salınmak",
+    "category": "Fizik",
+    "difficulty": 2,
+    "example_sentence": "The pendulum oscillates back and forth."
+  },
+  {
+    "id": 217,
+    "word_en": "Outcome",
+    "word_tr": "Sonuç",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The outcome of the experiment was unexpected."
+  },
+  {
+    "id": 218,
+    "word_en": "Output",
+    "word_tr": "Çıktı/Verim",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The output of the generator was measured."
+  },
+  {
+    "id": 219,
+    "word_en": "Overlap",
+    "word_tr": "Örtüşmek/Çakışmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The habitats of these species overlap."
+  },
+  {
+    "id": 220,
+    "word_en": "Overwhelm",
+    "word_tr": "Bunaltmak/Alt etmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The immune system was overwhelmed by the infection."
+  },
+  {
+    "id": 221,
+    "word_en": "Oxide",
+    "word_tr": "Oksit",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Iron oxide is commonly known as rust."
+  },
+  {
+    "id": 222,
+    "word_en": "Parasite",
+    "word_tr": "Parazit/Asalak",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Parasites depend on their host for survival."
+  },
+  {
+    "id": 223,
+    "word_en": "Particle",
+    "word_tr": "Parçacık",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "Subatomic particles make up atoms."
+  },
+  {
+    "id": 224,
+    "word_en": "Peculiar",
+    "word_tr": "Tuhaf/Kendine özgü",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The species has peculiar behavioral traits."
+  },
+  {
+    "id": 225,
+    "word_en": "Penetrate",
+    "word_tr": "Nüfuz etmek/Girmek",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "X-rays can penetrate soft tissue."
+  },
+  {
+    "id": 226,
+    "word_en": "Perceive",
+    "word_tr": "Algılamak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Humans perceive light through photoreceptors."
+  },
+  {
+    "id": 227,
+    "word_en": "Persist",
+    "word_tr": "Devam etmek/Sürmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The drought persisted for several months."
+  },
+  {
+    "id": 228,
+    "word_en": "Pertinent",
+    "word_tr": "İlgili/Uygun",
+    "category": "Genel",
+    "difficulty": 3,
+    "example_sentence": "Only pertinent data was included."
+  },
+  {
+    "id": 229,
+    "word_en": "Phenomena",
+    "word_tr": "Olgu/Fenomen",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Natural phenomena include earthquakes and volcanoes."
+  },
+  {
+    "id": 230,
+    "word_en": "Photosynthesis",
+    "word_tr": "Fotosentez",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Photosynthesis converts carbon dioxide into glucose."
+  },
+  {
+    "id": 231,
+    "word_en": "Pollutant",
+    "word_tr": "Kirletici",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Factories release pollutants into the atmosphere."
+  },
+  {
+    "id": 232,
+    "word_en": "Portion",
+    "word_tr": "Kısım/Pay",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "A large portion of the forest was destroyed."
+  },
+  {
+    "id": 233,
+    "word_en": "Pose",
+    "word_tr": "Oluşturmak/Ortaya koymak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Pollution poses a threat to marine life."
+  },
+  {
+    "id": 234,
+    "word_en": "Possess",
+    "word_tr": "Sahip olmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Some organisms possess the ability to regenerate."
+  },
+  {
+    "id": 235,
+    "word_en": "Potential",
+    "word_tr": "Potansiyel/Olası",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The compound has potential medical applications."
+  },
+  {
+    "id": 236,
+    "word_en": "Precede",
+    "word_tr": "Önce gelmek/Öncelemek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "A planning phase preceded the experiment."
+  },
+  {
+    "id": 237,
+    "word_en": "Precise",
+    "word_tr": "Kesin/Hassas",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Precise measurements are essential in chemistry."
+  },
+  {
+    "id": 238,
+    "word_en": "Predator",
+    "word_tr": "Yırtıcı/Avcı",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Predators control prey populations."
+  },
+  {
+    "id": 239,
+    "word_en": "Predict",
+    "word_tr": "Tahmin etmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Models predict future climate conditions."
+  },
+  {
+    "id": 240,
+    "word_en": "Predominant",
+    "word_tr": "Baskın/Hakim",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The predominant species in the area is oak."
+  },
+  {
+    "id": 241,
+    "word_en": "Preliminary",
+    "word_tr": "Ön/Başlangıç",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Preliminary results suggest a positive outcome."
+  },
+  {
+    "id": 242,
+    "word_en": "Preserve",
+    "word_tr": "Korumak/Muhafaza etmek",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "We must preserve natural ecosystems."
+  },
+  {
+    "id": 243,
+    "word_en": "Prevail",
+    "word_tr": "Geçerli olmak/Hâkim olmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Dry conditions prevail in desert regions."
+  },
+  {
+    "id": 244,
+    "word_en": "Prevalent",
+    "word_tr": "Yaygın",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The disease is more prevalent in tropical areas."
+  },
+  {
+    "id": 245,
+    "word_en": "Previous",
+    "word_tr": "Önceki",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Previous studies confirmed these findings."
+  },
+  {
+    "id": 246,
+    "word_en": "Primarily",
+    "word_tr": "Esas olarak/Başlıca",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The diet consists primarily of plants."
+  },
+  {
+    "id": 247,
+    "word_en": "Primitive",
+    "word_tr": "İlkel",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "Primitive organisms lacked complex cell structures."
+  },
+  {
+    "id": 248,
+    "word_en": "Principal",
+    "word_tr": "Başlıca/Temel",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The principal cause of extinction is habitat loss."
+  },
+  {
+    "id": 249,
+    "word_en": "Principle",
+    "word_tr": "İlke/Prensip",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The principle of conservation of energy is universal."
+  },
+  {
+    "id": 250,
+    "word_en": "Probe",
+    "word_tr": "Sonda/Araştırmak",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "The space probe collected data from Mars."
+  },
+  {
+    "id": 251,
+    "word_en": "Procedure",
+    "word_tr": "Prosedür/Yöntem",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The surgical procedure lasted three hours."
+  },
+  {
+    "id": 252,
+    "word_en": "Proceed",
+    "word_tr": "Devam etmek/İlerlemek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The reaction proceeds at room temperature."
+  },
+  {
+    "id": 253,
+    "word_en": "Process",
+    "word_tr": "Süreç/İşlem",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Photosynthesis is a complex biological process."
+  },
+  {
+    "id": 254,
+    "word_en": "Profound",
+    "word_tr": "Derin/Köklü",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The discovery had a profound impact on medicine."
+  },
+  {
+    "id": 255,
+    "word_en": "Prohibit",
+    "word_tr": "Yasaklamak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The use of harmful pesticides is prohibited."
+  },
+  {
+    "id": 256,
+    "word_en": "Prominent",
+    "word_tr": "Belirgin/Öne çıkan",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "A prominent feature of the landscape."
+  },
+  {
+    "id": 257,
+    "word_en": "Promote",
+    "word_tr": "Teşvik etmek/Desteklemek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Sunlight promotes vitamin D production."
+  },
+  {
+    "id": 258,
+    "word_en": "Proportion",
+    "word_tr": "Oran/Orantı",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "A large proportion of the ice cap has melted."
+  },
+  {
+    "id": 259,
+    "word_en": "Prospect",
+    "word_tr": "Olasılık/Beklenti",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The prospect of finding life on Mars excites scientists."
+  },
+  {
+    "id": 260,
+    "word_en": "Protein",
+    "word_tr": "Protein",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Proteins are essential for cell repair."
+  },
+  {
+    "id": 261,
+    "word_en": "Protocol",
+    "word_tr": "Protokol/Prosedür",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Safety protocols were strictly followed."
+  },
+  {
+    "id": 262,
+    "word_en": "Prove",
+    "word_tr": "Kanıtlamak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The theory was proved through rigorous testing."
+  },
+  {
+    "id": 263,
+    "word_en": "Provide",
+    "word_tr": "Sağlamak/Temin etmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Trees provide oxygen for the atmosphere."
+  },
+  {
+    "id": 264,
+    "word_en": "Proximity",
+    "word_tr": "Yakınlık",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Proximity to the equator affects climate."
+  },
+  {
+    "id": 265,
+    "word_en": "Pump",
+    "word_tr": "Pompalamak/Pompa",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "The heart pumps blood throughout the body."
+  },
+  {
+    "id": 266,
+    "word_en": "Purify",
+    "word_tr": "Arındırmak/Saflaştırmak",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "Filters purify drinking water."
+  },
+  {
+    "id": 267,
+    "word_en": "Quantify",
+    "word_tr": "Nicelendirmek",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "It is difficult to quantify biodiversity loss."
+  },
+  {
+    "id": 268,
+    "word_en": "Radiation",
+    "word_tr": "Radyasyon/Işınım",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "Ultraviolet radiation causes skin damage."
+  },
+  {
+    "id": 269,
+    "word_en": "Range",
+    "word_tr": "Aralık/Çeşit",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "A wide range of species live in this habitat."
+  },
+  {
+    "id": 270,
+    "word_en": "Ratio",
+    "word_tr": "Oran",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The ratio of hydrogen to oxygen in water is 2:1."
+  },
+  {
+    "id": 271,
+    "word_en": "React",
+    "word_tr": "Tepkime vermek",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Acids react with bases to form salts."
+  },
+  {
+    "id": 272,
+    "word_en": "Recover",
+    "word_tr": "İyileşmek/Geri kazanmak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The ecosystem took decades to recover."
+  },
+  {
+    "id": 273,
+    "word_en": "Reduce",
+    "word_tr": "Azaltmak/İndirgemek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Recycling reduces waste significantly."
+  },
+  {
+    "id": 274,
+    "word_en": "Refine",
+    "word_tr": "İyileştirmek/Arıtmak",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "The method was refined over several trials."
+  },
+  {
+    "id": 275,
+    "word_en": "Reflect",
+    "word_tr": "Yansıtmak",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "Mirrors reflect light in a predictable way."
+  },
+  {
+    "id": 276,
+    "word_en": "Region",
+    "word_tr": "Bölge",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Tropical regions receive the most sunlight."
+  },
+  {
+    "id": 277,
+    "word_en": "Register",
+    "word_tr": "Kaydetmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The instrument registered a slight increase."
+  },
+  {
+    "id": 278,
+    "word_en": "Regulate",
+    "word_tr": "Düzenlemek",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Hormones regulate body functions."
+  },
+  {
+    "id": 279,
+    "word_en": "Reinforce",
+    "word_tr": "Güçlendirmek/Pekiştirmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The findings reinforced the original hypothesis."
+  },
+  {
+    "id": 280,
+    "word_en": "Reject",
+    "word_tr": "Reddetmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The hypothesis was rejected based on the evidence."
+  },
+  {
+    "id": 281,
+    "word_en": "Relevant",
+    "word_tr": "İlgili/Uygun",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Only relevant variables were considered."
+  },
+  {
+    "id": 282,
+    "word_en": "Reliable",
+    "word_tr": "Güvenilir",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The method produces reliable results."
+  },
+  {
+    "id": 283,
+    "word_en": "Reluctant",
+    "word_tr": "İsteksiz",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Scientists were reluctant to accept the theory."
+  },
+  {
+    "id": 284,
+    "word_en": "Rely",
+    "word_tr": "Güvenmek/Bel bağlamak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Many communities rely on groundwater for drinking."
+  },
+  {
+    "id": 285,
+    "word_en": "Remainder",
+    "word_tr": "Kalan/Geri kalan",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The remainder of the sample was discarded."
+  },
+  {
+    "id": 286,
+    "word_en": "Remedy",
+    "word_tr": "Çare/Tedavi",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "Scientists are searching for a remedy for the disease."
+  },
+  {
+    "id": 287,
+    "word_en": "Remote",
+    "word_tr": "Uzak/Uzaktan",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Samples were collected from remote areas."
+  },
+  {
+    "id": 288,
+    "word_en": "Remove",
+    "word_tr": "Kaldırmak/Çıkarmak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Filters remove impurities from water."
+  },
+  {
+    "id": 289,
+    "word_en": "Render",
+    "word_tr": "Kılmak/Yapmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Pollution rendered the water undrinkable."
+  },
+  {
+    "id": 290,
+    "word_en": "Renew",
+    "word_tr": "Yenilemek",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Renewable energy sources include solar and wind."
+  },
+  {
+    "id": 291,
+    "word_en": "Replicate",
+    "word_tr": "Kopyalamak/Çoğaltmak",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "DNA replicates during cell division."
+  },
+  {
+    "id": 292,
+    "word_en": "Reproduce",
+    "word_tr": "Üremek/Çoğalmak",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Bacteria reproduce by binary fission."
+  },
+  {
+    "id": 293,
+    "word_en": "Require",
+    "word_tr": "Gerektirmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Plants require sunlight for photosynthesis."
+  },
+  {
+    "id": 294,
+    "word_en": "Reside",
+    "word_tr": "İkamet etmek/Bulunmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Beneficial bacteria reside in the human gut."
+  },
+  {
+    "id": 295,
+    "word_en": "Residue",
+    "word_tr": "Kalıntı/Artık",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "Chemical residues were found in the soil."
+  },
+  {
+    "id": 296,
+    "word_en": "Resist",
+    "word_tr": "Direnmek/Dayanmak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Some bacteria resist antibiotics."
+  },
+  {
+    "id": 297,
+    "word_en": "Resolve",
+    "word_tr": "Çözmek/Karara bağlamak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The issue was resolved through further analysis."
+  },
+  {
+    "id": 298,
+    "word_en": "Restore",
+    "word_tr": "Geri kazandırmak/Onarmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Efforts to restore the wetland habitat have begun."
+  },
+  {
+    "id": 299,
+    "word_en": "Restrict",
+    "word_tr": "Kısıtlamak/Sınırlamak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Access to the laboratory is restricted."
+  },
+  {
+    "id": 300,
+    "word_en": "Retain",
+    "word_tr": "Tutmak/Muhafaza etmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The soil retains moisture after rainfall."
+  },
+  {
+    "id": 301,
+    "word_en": "Reveal",
+    "word_tr": "Ortaya çıkarmak/Göstermek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The study revealed a strong correlation."
+  },
+  {
+    "id": 302,
+    "word_en": "Reverse",
+    "word_tr": "Tersine çevirmek/Ters",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The process can be reversed under certain conditions."
+  },
+  {
+    "id": 303,
+    "word_en": "Revise",
+    "word_tr": "Gözden geçirmek/Düzeltmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The theory was revised based on new data."
+  },
+  {
+    "id": 304,
+    "word_en": "Rigid",
+    "word_tr": "Katı/Sert",
+    "category": "Fizik",
+    "difficulty": 2,
+    "example_sentence": "The structure must be rigid enough to withstand pressure."
+  },
+  {
+    "id": 305,
+    "word_en": "Robust",
+    "word_tr": "Güçlü/Sağlam",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The organism has a robust immune system."
+  },
+  {
+    "id": 306,
+    "word_en": "Rotate",
+    "word_tr": "Dönmek/Döndürmek",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "The Earth rotates on its axis every 24 hours."
+  },
+  {
+    "id": 307,
+    "word_en": "Rupture",
+    "word_tr": "Yırtılmak/Kopma",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "The membrane ruptured under excessive pressure."
+  },
+  {
+    "id": 308,
+    "word_en": "Saturate",
+    "word_tr": "Doyurmak",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "The solution was fully saturated with salt."
+  },
+  {
+    "id": 309,
+    "word_en": "Scale",
+    "word_tr": "Ölçek",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The experiment was conducted on a large scale."
+  },
+  {
+    "id": 310,
+    "word_en": "Scarce",
+    "word_tr": "Kıt/Az",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Fresh water is scarce in arid regions."
+  },
+  {
+    "id": 311,
+    "word_en": "Scatter",
+    "word_tr": "Saçmak/Dağılmak",
+    "category": "Fizik",
+    "difficulty": 2,
+    "example_sentence": "Light scatters when passing through a prism."
+  },
+  {
+    "id": 312,
+    "word_en": "Scope",
+    "word_tr": "Kapsam",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The scope of the study was limited to mammals."
+  },
+  {
+    "id": 313,
+    "word_en": "Secrete",
+    "word_tr": "Salgılamak",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "Glands secrete hormones into the bloodstream."
+  },
+  {
+    "id": 314,
+    "word_en": "Sector",
+    "word_tr": "Sektör/Kesim",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The energy sector contributes to emissions."
+  },
+  {
+    "id": 315,
+    "word_en": "Sediment",
+    "word_tr": "Tortu/Çökelti",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Sediments accumulate at the bottom of rivers."
+  },
+  {
+    "id": 316,
+    "word_en": "Segment",
+    "word_tr": "Bölüm/Parça",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Each segment of DNA carries genetic information."
+  },
+  {
+    "id": 317,
+    "word_en": "Sequence",
+    "word_tr": "Dizi/Sıra",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "The DNA sequence was analyzed."
+  },
+  {
+    "id": 318,
+    "word_en": "Severe",
+    "word_tr": "Şiddetli/Ciddi",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Severe droughts affect crop production."
+  },
+  {
+    "id": 319,
+    "word_en": "Shed",
+    "word_tr": "Dökmek/Yaymak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The study sheds light on the mechanism."
+  },
+  {
+    "id": 320,
+    "word_en": "Shift",
+    "word_tr": "Değişim/Kaymak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "A shift in climate patterns was observed."
+  },
+  {
+    "id": 321,
+    "word_en": "Shrink",
+    "word_tr": "Küçülmek/Büzülmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Glaciers shrink due to rising temperatures."
+  },
+  {
+    "id": 322,
+    "word_en": "Significant",
+    "word_tr": "Önemli/Anlamlı",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The difference was statistically significant."
+  },
+  {
+    "id": 323,
+    "word_en": "Simulate",
+    "word_tr": "Simüle etmek",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Computers simulate complex weather patterns."
+  },
+  {
+    "id": 324,
+    "word_en": "Simultaneously",
+    "word_tr": "Aynı anda",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Two reactions occurred simultaneously."
+  },
+  {
+    "id": 325,
+    "word_en": "Sketch",
+    "word_tr": "Taslak/Çizmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The researcher sketched the experimental setup."
+  },
+  {
+    "id": 326,
+    "word_en": "Sole",
+    "word_tr": "Tek/Yegâne",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The sole purpose of the study was to test safety."
+  },
+  {
+    "id": 327,
+    "word_en": "Soluble",
+    "word_tr": "Çözünür",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Sugar is soluble in water."
+  },
+  {
+    "id": 328,
+    "word_en": "Solution",
+    "word_tr": "Çözelti/Çözüm",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "The chemical was dissolved in an aqueous solution."
+  },
+  {
+    "id": 329,
+    "word_en": "Sophisticated",
+    "word_tr": "Gelişmiş/Karmaşık",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The lab uses sophisticated equipment."
+  },
+  {
+    "id": 330,
+    "word_en": "Source",
+    "word_tr": "Kaynak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The sun is the primary source of energy."
+  },
+  {
+    "id": 331,
+    "word_en": "Span",
+    "word_tr": "Süre/Kapsamak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The study spanned a period of five years."
+  },
+  {
+    "id": 332,
+    "word_en": "Speculate",
+    "word_tr": "Spekülasyon yapmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Scientists speculate about the origin of life."
+  },
+  {
+    "id": 333,
+    "word_en": "Sphere",
+    "word_tr": "Küre",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "The Earth is roughly spherical in shape."
+  },
+  {
+    "id": 334,
+    "word_en": "Spontaneous",
+    "word_tr": "Kendiliğinden",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "Spontaneous reactions occur without external energy."
+  },
+  {
+    "id": 335,
+    "word_en": "Stable",
+    "word_tr": "Kararlı/Dengeli",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Noble gases are chemically stable."
+  },
+  {
+    "id": 336,
+    "word_en": "Stem",
+    "word_tr": "Kök/Gövde",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Stem cells can develop into different cell types."
+  },
+  {
+    "id": 337,
+    "word_en": "Stimulate",
+    "word_tr": "Uyarmak/Teşvik etmek",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "Hormones stimulate growth and development."
+  },
+  {
+    "id": 338,
+    "word_en": "Strain",
+    "word_tr": "Tür/Gerinim",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "A new strain of the virus was discovered."
+  },
+  {
+    "id": 339,
+    "word_en": "Stress",
+    "word_tr": "Stres/Gerilim",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Thermal stress can cause materials to crack."
+  },
+  {
+    "id": 340,
+    "word_en": "Structure",
+    "word_tr": "Yapı",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The structure of DNA is a double helix."
+  },
+  {
+    "id": 341,
+    "word_en": "Subject",
+    "word_tr": "Konu/Denek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The subjects were observed for three months."
+  },
+  {
+    "id": 342,
+    "word_en": "Subsequent",
+    "word_tr": "Sonraki/Müteakip",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Subsequent experiments confirmed the results."
+  },
+  {
+    "id": 343,
+    "word_en": "Substance",
+    "word_tr": "Madde",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Water is the most common substance on Earth."
+  },
+  {
+    "id": 344,
+    "word_en": "Substitute",
+    "word_tr": "İkame etmek/Yerine koymak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Artificial sweeteners substitute for sugar."
+  },
+  {
+    "id": 345,
+    "word_en": "Subtle",
+    "word_tr": "İnce/Belirsiz",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Subtle changes in temperature affect migration."
+  },
+  {
+    "id": 346,
+    "word_en": "Successive",
+    "word_tr": "Ardışık",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Data was collected over successive generations."
+  },
+  {
+    "id": 347,
+    "word_en": "Sufficient",
+    "word_tr": "Yeterli",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Sufficient evidence supports the theory."
+  },
+  {
+    "id": 348,
+    "word_en": "Superficial",
+    "word_tr": "Yüzeysel",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The wound was superficial and healed quickly."
+  },
+  {
+    "id": 349,
+    "word_en": "Supplement",
+    "word_tr": "Takviye/Ek",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Vitamin supplements support immune function."
+  },
+  {
+    "id": 350,
+    "word_en": "Supply",
+    "word_tr": "Tedarik/Sağlamak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Blood vessels supply oxygen to tissues."
+  },
+  {
+    "id": 351,
+    "word_en": "Suppress",
+    "word_tr": "Bastırmak/Baskılamak",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "The drug suppresses the immune response."
+  },
+  {
+    "id": 352,
+    "word_en": "Surface",
+    "word_tr": "Yüzey",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The surface of Mars contains iron oxide."
+  },
+  {
+    "id": 353,
+    "word_en": "Surge",
+    "word_tr": "Artış/Dalgalanma",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "A surge in temperature was recorded."
+  },
+  {
+    "id": 354,
+    "word_en": "Surplus",
+    "word_tr": "Fazla/Artık",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Surplus energy is stored as fat."
+  },
+  {
+    "id": 355,
+    "word_en": "Surroundings",
+    "word_tr": "Çevre/Ortam",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Organisms interact with their surroundings."
+  },
+  {
+    "id": 356,
+    "word_en": "Survive",
+    "word_tr": "Hayatta kalmak",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Only the fittest organisms survive."
+  },
+  {
+    "id": 357,
+    "word_en": "Susceptible",
+    "word_tr": "Duyarlı/Hassas",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "Young children are more susceptible to infections."
+  },
+  {
+    "id": 358,
+    "word_en": "Suspend",
+    "word_tr": "Askıya almak",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "Particles were suspended in the liquid."
+  },
+  {
+    "id": 359,
+    "word_en": "Sustain",
+    "word_tr": "Sürdürmek/Desteklemek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The ecosystem cannot sustain this level of pollution."
+  },
+  {
+    "id": 360,
+    "word_en": "Synthesis",
+    "word_tr": "Sentez",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "Protein synthesis occurs in ribosomes."
+  },
+  {
+    "id": 361,
+    "word_en": "Tangible",
+    "word_tr": "Somut/Elle tutulur",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The benefits of the research are now tangible."
+  },
+  {
+    "id": 362,
+    "word_en": "Technique",
+    "word_tr": "Teknik/Yöntem",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "A new technique for gene editing was developed."
+  },
+  {
+    "id": 363,
+    "word_en": "Temperature",
+    "word_tr": "Sıcaklık",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "Temperature affects the rate of chemical reactions."
+  },
+  {
+    "id": 364,
+    "word_en": "Temporary",
+    "word_tr": "Geçici",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The effect of the drug is temporary."
+  },
+  {
+    "id": 365,
+    "word_en": "Tendency",
+    "word_tr": "Eğilim",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "There is a tendency for temperatures to rise."
+  },
+  {
+    "id": 366,
+    "word_en": "Terminate",
+    "word_tr": "Sonlandırmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The reaction was terminated by cooling."
+  },
+  {
+    "id": 367,
+    "word_en": "Terrain",
+    "word_tr": "Arazi/Zemin",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The terrain was rocky and unsuitable for farming."
+  },
+  {
+    "id": 368,
+    "word_en": "Thesis",
+    "word_tr": "Tez",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The thesis was supported by experimental evidence."
+  },
+  {
+    "id": 369,
+    "word_en": "Thorough",
+    "word_tr": "Kapsamlı/Titiz",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "A thorough investigation was conducted."
+  },
+  {
+    "id": 370,
+    "word_en": "Threshold",
+    "word_tr": "Eşik",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "The pain threshold varies from person to person."
+  },
+  {
+    "id": 371,
+    "word_en": "Tissue",
+    "word_tr": "Doku",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Muscle tissue contracts during movement."
+  },
+  {
+    "id": 372,
+    "word_en": "Toxic",
+    "word_tr": "Zehirli/Toksik",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Mercury is a toxic heavy metal."
+  },
+  {
+    "id": 373,
+    "word_en": "Trace",
+    "word_tr": "İz/İzlemek",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Trace amounts of the element were detected."
+  },
+  {
+    "id": 374,
+    "word_en": "Trait",
+    "word_tr": "Özellik",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Genetic traits are passed from parents to offspring."
+  },
+  {
+    "id": 375,
+    "word_en": "Transfer",
+    "word_tr": "Aktarmak/Transfer",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Energy is transferred through heat conduction."
+  },
+  {
+    "id": 376,
+    "word_en": "Transform",
+    "word_tr": "Dönüştürmek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Caterpillars transform into butterflies."
+  },
+  {
+    "id": 377,
+    "word_en": "Transition",
+    "word_tr": "Geçiş",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "The transition from liquid to gas requires energy."
+  },
+  {
+    "id": 378,
+    "word_en": "Transmit",
+    "word_tr": "İletmek/Aktarmak",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Nerves transmit signals to the brain."
+  },
+  {
+    "id": 379,
+    "word_en": "Transparent",
+    "word_tr": "Saydam/Şeffaf",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "Glass is transparent to visible light."
+  },
+  {
+    "id": 380,
+    "word_en": "Trend",
+    "word_tr": "Eğilim/Akım",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "An upward trend in carbon emissions was noted."
+  },
+  {
+    "id": 381,
+    "word_en": "Trigger",
+    "word_tr": "Tetiklemek",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Stress can trigger hormonal changes."
+  },
+  {
+    "id": 382,
+    "word_en": "Trivial",
+    "word_tr": "Önemsiz",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The difference was trivial and ignored."
+  },
+  {
+    "id": 383,
+    "word_en": "Tumor",
+    "word_tr": "Tümör",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "The tumor was removed through surgery."
+  },
+  {
+    "id": 384,
+    "word_en": "Turbulent",
+    "word_tr": "Çalkantılı/Türbülanslı",
+    "category": "Fizik",
+    "difficulty": 2,
+    "example_sentence": "Turbulent flow occurs at high velocities."
+  },
+  {
+    "id": 385,
+    "word_en": "Ultimate",
+    "word_tr": "Nihai/Son",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The ultimate goal is to cure the disease."
+  },
+  {
+    "id": 386,
+    "word_en": "Undergo",
+    "word_tr": "Geçirmek/Maruz kalmak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Cells undergo division during growth."
+  },
+  {
+    "id": 387,
+    "word_en": "Underlie",
+    "word_tr": "Altında yatmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Genetic factors underlie many diseases."
+  },
+  {
+    "id": 388,
+    "word_en": "Undertake",
+    "word_tr": "Üstlenmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The institute undertook a five-year study."
+  },
+  {
+    "id": 389,
+    "word_en": "Uniform",
+    "word_tr": "Tekdüze/Homojen",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "The solution must be of uniform concentration."
+  },
+  {
+    "id": 390,
+    "word_en": "Unique",
+    "word_tr": "Eşsiz/Benzersiz",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Each organism has a unique DNA sequence."
+  },
+  {
+    "id": 391,
+    "word_en": "Utilize",
+    "word_tr": "Kullanmak/Yararlanmak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Plants utilize sunlight for energy."
+  },
+  {
+    "id": 392,
+    "word_en": "Valid",
+    "word_tr": "Geçerli",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The results are valid only under certain conditions."
+  },
+  {
+    "id": 393,
+    "word_en": "Variable",
+    "word_tr": "Değişken",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Temperature was the independent variable."
+  },
+  {
+    "id": 394,
+    "word_en": "Vary",
+    "word_tr": "Değişmek/Farklılık göstermek",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Results vary depending on the sample size."
+  },
+  {
+    "id": 395,
+    "word_en": "Vegetation",
+    "word_tr": "Bitki örtüsü",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Dense vegetation covers the valley floor."
+  },
+  {
+    "id": 396,
+    "word_en": "Verify",
+    "word_tr": "Doğrulamak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The findings were verified through replication."
+  },
+  {
+    "id": 397,
+    "word_en": "Version",
+    "word_tr": "Versiyon/Sürüm",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "A new version of the model was developed."
+  },
+  {
+    "id": 398,
+    "word_en": "Vertical",
+    "word_tr": "Dikey",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "The vertical axis represents temperature."
+  },
+  {
+    "id": 399,
+    "word_en": "Viable",
+    "word_tr": "Yaşayabilir/Uygulanabilir",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Nuclear fusion remains a viable energy option."
+  },
+  {
+    "id": 400,
+    "word_en": "Vigorous",
+    "word_tr": "Güçlü/Şiddetli",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The reaction was vigorous and exothermic."
+  },
+  {
+    "id": 401,
+    "word_en": "Virtual",
+    "word_tr": "Sanal",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Virtual simulations replace costly experiments."
+  },
+  {
+    "id": 402,
+    "word_en": "Visible",
+    "word_tr": "Görünür",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "Visible light is only a part of the spectrum."
+  },
+  {
+    "id": 403,
+    "word_en": "Vital",
+    "word_tr": "Hayati/Çok önemli",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Water is vital for all forms of life."
+  },
+  {
+    "id": 404,
+    "word_en": "Volatile",
+    "word_tr": "Uçucu/Değişken",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "Volatile organic compounds evaporate quickly."
+  },
+  {
+    "id": 405,
+    "word_en": "Volume",
+    "word_tr": "Hacim",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "The volume of the gas increased with temperature."
+  },
+  {
+    "id": 406,
+    "word_en": "Vulnerable",
+    "word_tr": "Savunmasız/Hassas",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Coral reefs are vulnerable to ocean acidification."
+  },
+  {
+    "id": 407,
+    "word_en": "Wavelength",
+    "word_tr": "Dalga boyu",
+    "category": "Fizik",
+    "difficulty": 2,
+    "example_sentence": "Different colors correspond to different wavelengths."
+  },
+  {
+    "id": 408,
+    "word_en": "Whereas",
+    "word_tr": "Oysa/Halbuki",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Plants produce oxygen, whereas animals consume it."
+  },
+  {
+    "id": 409,
+    "word_en": "Widespread",
+    "word_tr": "Yaygın",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Pollution is a widespread environmental problem."
+  },
+  {
+    "id": 410,
+    "word_en": "Yield",
+    "word_tr": "Verim/Üretmek",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The experiment yielded unexpected results."
+  },
+  {
+    "id": 411,
+    "word_en": "Zone",
+    "word_tr": "Bölge/Alan",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The intertidal zone supports diverse marine life."
+  },
+  {
+    "id": 412,
+    "word_en": "Abort",
+    "word_tr": "İptal etmek/Durdurmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The mission was aborted due to technical failure."
+  },
+  {
+    "id": 413,
+    "word_en": "Abrupt",
+    "word_tr": "Ani/Beklenmedik",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "An abrupt change in temperature was recorded."
+  },
+  {
+    "id": 414,
+    "word_en": "Abundance",
+    "word_tr": "Bolluk/Çokluk",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "The abundance of fish species has declined."
+  },
+  {
+    "id": 415,
+    "word_en": "Accessible",
+    "word_tr": "Erişilebilir",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Clean water should be accessible to all."
+  },
+  {
+    "id": 416,
+    "word_en": "Accuracy",
+    "word_tr": "Doğruluk/Kesinlik",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The accuracy of the measurement was confirmed."
+  },
+  {
+    "id": 417,
+    "word_en": "Acidic",
+    "word_tr": "Asidik",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Lemon juice is acidic with a low pH value."
+  },
+  {
+    "id": 418,
+    "word_en": "Acknowledge",
+    "word_tr": "Kabul etmek/Onaylamak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The researcher acknowledged the limitations."
+  },
+  {
+    "id": 419,
+    "word_en": "Acquisition",
+    "word_tr": "Edinim/Kazanım",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Language acquisition begins in early childhood."
+  },
+  {
+    "id": 420,
+    "word_en": "Adjacent",
+    "word_tr": "Bitişik/Komşu",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The two habitats are adjacent to each other."
+  },
+  {
+    "id": 421,
+    "word_en": "Adverse",
+    "word_tr": "Olumsuz/Ters",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Adverse effects of the drug were minimal."
+  },
+  {
+    "id": 422,
+    "word_en": "Advocate",
+    "word_tr": "Savunmak/Desteklemek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Scientists advocate for renewable energy."
+  },
+  {
+    "id": 423,
+    "word_en": "Aggregate",
+    "word_tr": "Toplam/Küme",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "The aggregate data showed a positive trend."
+  },
+  {
+    "id": 424,
+    "word_en": "Albeit",
+    "word_tr": "Her ne kadar/Olsa da",
+    "category": "Genel",
+    "difficulty": 3,
+    "example_sentence": "The results, albeit preliminary, are encouraging."
+  },
+  {
+    "id": 425,
+    "word_en": "Allocate",
+    "word_tr": "Tahsis etmek/Ayırmak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Funds were allocated for climate research."
+  },
+  {
+    "id": 426,
+    "word_en": "Ambiguous",
+    "word_tr": "Belirsiz/Çift anlamlı",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The results were ambiguous and hard to interpret."
+  },
+  {
+    "id": 427,
+    "word_en": "Analogy",
+    "word_tr": "Benzetme/Analoji",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The analogy between the brain and a computer is common."
+  },
+  {
+    "id": 428,
+    "word_en": "Anatomy",
+    "word_tr": "Anatomi",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Human anatomy is studied in medical school."
+  },
+  {
+    "id": 429,
+    "word_en": "Anomaly",
+    "word_tr": "Anomali/Sapma",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "An anomaly in the data required further investigation."
+  },
+  {
+    "id": 430,
+    "word_en": "Apparatus",
+    "word_tr": "Araç/Cihaz",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The experimental apparatus was carefully calibrated."
+  },
+  {
+    "id": 431,
+    "word_en": "Arbitrary",
+    "word_tr": "Keyfi/Rastgele",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The selection criteria were not arbitrary."
+  },
+  {
+    "id": 432,
+    "word_en": "Array",
+    "word_tr": "Dizi/Sıra",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "An array of sensors was deployed across the field."
+  },
+  {
+    "id": 433,
+    "word_en": "Assemble",
+    "word_tr": "Birleştirmek/Montaj yapmak",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The components were assembled in the laboratory."
+  },
+  {
+    "id": 434,
+    "word_en": "Autonomous",
+    "word_tr": "Özerk/Bağımsız",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "The robot operates in an autonomous mode."
+  },
+  {
+    "id": 435,
+    "word_en": "Axis",
+    "word_tr": "Eksen",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "The Earth tilts on its axis at 23.5 degrees."
+  },
+  {
+    "id": 436,
+    "word_en": "Bacteria",
+    "word_tr": "Bakteri",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Bacteria are single-celled microorganisms."
+  },
+  {
+    "id": 437,
+    "word_en": "Bias",
+    "word_tr": "Önyargı/Sapma",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Confirmation bias can affect research outcomes."
+  },
+  {
+    "id": 438,
+    "word_en": "Biodegradable",
+    "word_tr": "Biyolojik olarak parçalanabilir",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "Biodegradable materials decompose naturally."
+  },
+  {
+    "id": 439,
+    "word_en": "Breakthrough",
+    "word_tr": "Atılım/Çığır açan gelişme",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "A breakthrough in cancer research was announced."
+  },
+  {
+    "id": 440,
+    "word_en": "Buffer",
+    "word_tr": "Tampon",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "A buffer solution resists changes in pH."
+  },
+  {
+    "id": 441,
+    "word_en": "Bulk",
+    "word_tr": "Yığın/Hacim",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The bulk of the evidence supports the theory."
+  },
+  {
+    "id": 442,
+    "word_en": "Calibrate",
+    "word_tr": "Kalibre etmek",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "The instruments must be calibrated before use."
+  },
+  {
+    "id": 443,
+    "word_en": "Carbon",
+    "word_tr": "Karbon",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Carbon is the basis of organic chemistry."
+  },
+  {
+    "id": 444,
+    "word_en": "Cell",
+    "word_tr": "Hücre",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "The cell is the basic unit of life."
+  },
+  {
+    "id": 445,
+    "word_en": "Ceramic",
+    "word_tr": "Seramik",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Ceramic materials withstand high temperatures."
+  },
+  {
+    "id": 446,
+    "word_en": "Channel",
+    "word_tr": "Kanal",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Ion channels regulate cell membrane potential."
+  },
+  {
+    "id": 447,
+    "word_en": "Circumference",
+    "word_tr": "Çevre/Çevre uzunluğu",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "The circumference of the Earth is about 40,000 km."
+  },
+  {
+    "id": 448,
+    "word_en": "Coexist",
+    "word_tr": "Birlikte var olmak",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "Different species coexist in the same habitat."
+  },
+  {
+    "id": 449,
+    "word_en": "Cognitive",
+    "word_tr": "Bilişsel",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "Cognitive functions decline with age."
+  },
+  {
+    "id": 450,
+    "word_en": "Cohesion",
+    "word_tr": "Bağdaşım/Yapışma",
+    "category": "Fizik",
+    "difficulty": 2,
+    "example_sentence": "Cohesion between water molecules creates surface tension."
+  },
+  {
+    "id": 451,
+    "word_en": "Collapse",
+    "word_tr": "Çökmek/Çöküş",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The bridge collapsed under excessive weight."
+  },
+  {
+    "id": 452,
+    "word_en": "Colony",
+    "word_tr": "Koloni",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "A colony of bacteria grew on the agar plate."
+  },
+  {
+    "id": 453,
+    "word_en": "Combustion",
+    "word_tr": "Yanma",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Combustion of fossil fuels releases CO2."
+  },
+  {
+    "id": 454,
+    "word_en": "Complement",
+    "word_tr": "Tamamlamak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The two methods complement each other."
+  },
+  {
+    "id": 455,
+    "word_en": "Compression",
+    "word_tr": "Sıkıştırma",
+    "category": "Fizik",
+    "difficulty": 2,
+    "example_sentence": "Compression of gas increases its temperature."
+  },
+  {
+    "id": 456,
+    "word_en": "Concur",
+    "word_tr": "Aynı fikirde olmak",
+    "category": "Genel",
+    "difficulty": 3,
+    "example_sentence": "Most experts concur with the findings."
+  },
+  {
+    "id": 457,
+    "word_en": "Condensation",
+    "word_tr": "Yoğuşma",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Condensation forms water droplets on cold surfaces."
+  },
+  {
+    "id": 458,
+    "word_en": "Configuration",
+    "word_tr": "Yapılandırma/Düzenleme",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "The electronic configuration determines reactivity."
+  },
+  {
+    "id": 459,
+    "word_en": "Congenital",
+    "word_tr": "Doğuştan",
+    "category": "Biyoloji",
+    "difficulty": 2,
+    "example_sentence": "The condition is congenital and present from birth."
+  },
+  {
+    "id": 460,
+    "word_en": "Conjunction",
+    "word_tr": "Bağlaç/Birleşme",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The treatment works in conjunction with therapy."
+  },
+  {
+    "id": 461,
+    "word_en": "Consensus",
+    "word_tr": "Uzlaşı/Fikir birliği",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "There is scientific consensus on climate change."
+  },
+  {
+    "id": 462,
+    "word_en": "Contaminant",
+    "word_tr": "Kirletici madde",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "Contaminants in the water were identified."
+  },
+  {
+    "id": 463,
+    "word_en": "Contingent",
+    "word_tr": "Bağlı/Koşullu",
+    "category": "Genel",
+    "difficulty": 3,
+    "example_sentence": "Success is contingent upon proper methodology."
+  },
+  {
+    "id": 464,
+    "word_en": "Contradictory",
+    "word_tr": "Çelişkili",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The findings were contradictory to expectations."
+  },
+  {
+    "id": 465,
+    "word_en": "Controversy",
+    "word_tr": "Tartışma/Çekişme",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The study sparked controversy in the field."
+  },
+  {
+    "id": 466,
+    "word_en": "Conventional",
+    "word_tr": "Geleneksel/Alışılmış",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Conventional methods were replaced by new technology."
+  },
+  {
+    "id": 467,
+    "word_en": "Converge",
+    "word_tr": "Yakınsamak",
+    "category": "Fizik",
+    "difficulty": 2,
+    "example_sentence": "The two rivers converge at this point."
+  },
+  {
+    "id": 468,
+    "word_en": "Core",
+    "word_tr": "Çekirdek/Öz",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The core of the Earth is extremely hot."
+  },
+  {
+    "id": 469,
+    "word_en": "Correlate",
+    "word_tr": "İlişkilendirmek",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Smoking correlates with lung cancer risk."
+  },
+  {
+    "id": 470,
+    "word_en": "Criteria",
+    "word_tr": "Ölçüt/Kriter",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The selection criteria were clearly defined."
+  },
+  {
+    "id": 471,
+    "word_en": "Cumulative",
+    "word_tr": "Kümülatif/Birikimli",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The cumulative effect of pollution is devastating."
+  },
+  {
+    "id": 472,
+    "word_en": "Curriculum",
+    "word_tr": "Müfredat",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "Science is part of the school curriculum."
+  },
+  {
+    "id": 473,
+    "word_en": "Cylinder",
+    "word_tr": "Silindir",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "Gas was collected in a graduated cylinder."
+  },
+  {
+    "id": 474,
+    "word_en": "Debris",
+    "word_tr": "Enkaz/Kalıntı",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Space debris orbits the Earth."
+  },
+  {
+    "id": 475,
+    "word_en": "Deficiency",
+    "word_tr": "Eksiklik/Yetersizlik",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Iron deficiency causes anemia."
+  },
+  {
+    "id": 476,
+    "word_en": "Density",
+    "word_tr": "Yoğunluk",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "The density of water is 1 gram per cubic centimeter."
+  },
+  {
+    "id": 477,
+    "word_en": "Depict",
+    "word_tr": "Betimlemek/Tasvir etmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The diagram depicts the water cycle."
+  },
+  {
+    "id": 478,
+    "word_en": "Deposit",
+    "word_tr": "Birikim/Tortu",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Mineral deposits were found beneath the surface."
+  },
+  {
+    "id": 479,
+    "word_en": "Designate",
+    "word_tr": "Belirlemek/Tayin etmek",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The area was designated as a nature reserve."
+  },
+  {
+    "id": 480,
+    "word_en": "Detrimental",
+    "word_tr": "Zararlı",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Pollution is detrimental to human health."
+  },
+  {
+    "id": 481,
+    "word_en": "Diagnosis",
+    "word_tr": "Teşhis/Tanı",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Early diagnosis improves survival rates."
+  },
+  {
+    "id": 482,
+    "word_en": "Diameter",
+    "word_tr": "Çap",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "The diameter of the cell is about 10 micrometers."
+  },
+  {
+    "id": 483,
+    "word_en": "Diffuse",
+    "word_tr": "Yayılmak/Dağılmak",
+    "category": "Fizik",
+    "difficulty": 2,
+    "example_sentence": "Gases diffuse from high to low concentration."
+  },
+  {
+    "id": 484,
+    "word_en": "Dilute",
+    "word_tr": "Seyreltmek",
+    "category": "Kimya",
+    "difficulty": 1,
+    "example_sentence": "The acid was diluted with distilled water."
+  },
+  {
+    "id": 485,
+    "word_en": "Dimension",
+    "word_tr": "Boyut",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "The object has three dimensions."
+  },
+  {
+    "id": 486,
+    "word_en": "Disperse",
+    "word_tr": "Dağıtmak/Saçmak",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Seeds are dispersed by wind and animals."
+  },
+  {
+    "id": 487,
+    "word_en": "Displacement",
+    "word_tr": "Yer değiştirme",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "Displacement measures the change in position."
+  },
+  {
+    "id": 488,
+    "word_en": "Doctrine",
+    "word_tr": "Doktrin/Öğreti",
+    "category": "Genel",
+    "difficulty": 3,
+    "example_sentence": "The doctrine of evolution is well established."
+  },
+  {
+    "id": 489,
+    "word_en": "Domain",
+    "word_tr": "Alan/Saha",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Molecular biology is a growing research domain."
+  },
+  {
+    "id": 490,
+    "word_en": "Dominant",
+    "word_tr": "Baskın",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "The dominant gene determines the phenotype."
+  },
+  {
+    "id": 491,
+    "word_en": "Dose",
+    "word_tr": "Doz",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "The correct dose of medicine must be administered."
+  },
+  {
+    "id": 492,
+    "word_en": "Draft",
+    "word_tr": "Taslak",
+    "category": "Genel",
+    "difficulty": 1,
+    "example_sentence": "The first draft of the paper was submitted."
+  },
+  {
+    "id": 493,
+    "word_en": "Drought",
+    "word_tr": "Kuraklık",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Drought conditions threaten agriculture."
+  },
+  {
+    "id": 494,
+    "word_en": "Durable",
+    "word_tr": "Dayanıklı",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "The material is lightweight but durable."
+  },
+  {
+    "id": 495,
+    "word_en": "Dynamic",
+    "word_tr": "Dinamik/Hareketli",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "Ocean currents are dynamic and constantly changing."
+  },
+  {
+    "id": 496,
+    "word_en": "Ecology",
+    "word_tr": "Ekoloji",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Ecology studies the relationships between organisms."
+  },
+  {
+    "id": 497,
+    "word_en": "Efficiency",
+    "word_tr": "Verimlilik",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Energy efficiency reduces fuel consumption."
+  },
+  {
+    "id": 498,
+    "word_en": "Elastic",
+    "word_tr": "Elastik/Esnek",
+    "category": "Fizik",
+    "difficulty": 1,
+    "example_sentence": "Rubber is a highly elastic material."
+  },
+  {
+    "id": 499,
+    "word_en": "Electrode",
+    "word_tr": "Elektrot",
+    "category": "Kimya",
+    "difficulty": 2,
+    "example_sentence": "Electrodes conduct electricity in a battery."
+  },
+  {
+    "id": 500,
+    "word_en": "Elevation",
+    "word_tr": "Yükseklik/Rakım",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Air pressure decreases with elevation."
+  },
+  {
+    "id": 501,
+    "word_en": "Embryo",
+    "word_tr": "Embriyo",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "The embryo develops into a fetus."
+  },
+  {
+    "id": 502,
+    "word_en": "Emission",
+    "word_tr": "Emisyon/Salınım",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Carbon emissions must be reduced globally."
+  },
+  {
+    "id": 503,
+    "word_en": "Empirical",
+    "word_tr": "Ampirik/Deneysel",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "The theory is based on empirical evidence."
+  },
+  {
+    "id": 504,
+    "word_en": "Encompass",
+    "word_tr": "Kapsamak/İçine almak",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "The study encompasses a wide range of topics."
+  },
+  {
+    "id": 505,
+    "word_en": "Endanger",
+    "word_tr": "Tehlikeye atmak",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "Pollution endangers marine wildlife."
+  },
+  {
+    "id": 506,
+    "word_en": "Epidemic",
+    "word_tr": "Salgın",
+    "category": "Biyoloji",
+    "difficulty": 1,
+    "example_sentence": "The epidemic spread across several countries."
+  },
+  {
+    "id": 507,
+    "word_en": "Erosion",
+    "word_tr": "Erozyon/Aşınma",
+    "category": "Fen",
+    "difficulty": 1,
+    "example_sentence": "Soil erosion is caused by wind and water."
+  },
+  {
+    "id": 508,
+    "word_en": "Ethical",
+    "word_tr": "Etik/Ahlaki",
+    "category": "Genel",
+    "difficulty": 2,
+    "example_sentence": "Ethical considerations guide animal testing."
+  },
+  {
+    "id": 509,
+    "word_en": "Excavate",
+    "word_tr": "Kazmak/Çıkarmak",
+    "category": "Fen",
+    "difficulty": 2,
+    "example_sentence": "Fossils were excavated from the site."
+  }
+]
